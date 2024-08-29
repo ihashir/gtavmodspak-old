@@ -9,7 +9,8 @@ You can view the live demo of the website [here](http://gtavtest672.atwebpages.c
 ## Features
 
 - **Bootstrap Framework**: Provides a responsive and mobile-first design.
-- **PHP Integration**: Handles the server-side logic.
+- **PHP Integration**: Handles the server-side logic for admin to upload/modify mods.
+- **Light and Dark Mode**: The website features a toggleable light and dark mode.
 
 ## Screenshots
 
@@ -29,14 +30,15 @@ Below are some screenshots of the website, showcasing both light mode and dark m
 
 ## Technologies Used
 
-- **Bootstrap**
-- **PHP**
 - **HTML5**
 - **CSS3**
+- **Bootstrap**
+- **PHP**
+- **JQuery**
 
 ## Purpose
 
-This project was built to create a web presence for a YouTuber's GTA V mods content, making it easier for the audience to access and download mods. This version focuses on providing a simple, responsive design with basic functionalities.
+This project was built to create a website for a YouTuber's GTA V mods content, making it easier for the audience to access and download mods. This version focuses on providing a simple, responsive design with basic functionalities.
 
 ## Contributing
 
